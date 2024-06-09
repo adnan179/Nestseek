@@ -25,8 +25,8 @@ NestSeek is a comprehensive real estate platform built using the MERN stack (Mon
 
 - **Frontend**: React, Tailwind CSS
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication and Storage**: Firebase
+- **Database**: MongoDB, Firebase
+- **Authentication**: JWT
 - **File Upload**: Multer
 
 ## Installation
