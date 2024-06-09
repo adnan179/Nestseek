@@ -35,7 +35,7 @@ NestSeek is a comprehensive real estate platform built using the MERN stack (Mon
    ```bash
    git clone https://github.com/yourusername/nestseek.git
 
-2. Install the dependancies:
+2. Install the dependencies:
    ```bash
    npm install
 
@@ -43,6 +43,7 @@ NestSeek is a comprehensive real estate platform built using the MERN stack (Mon
    ```bash
    nodemon server
 
-   ```bash
+   
+```bash
    npm start
 
