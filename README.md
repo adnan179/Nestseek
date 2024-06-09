@@ -1,4 +1,4 @@
-# NestSeek
+# 🏠 NestSeek
 
 NestSeek is a comprehensive real estate platform built using the MERN stack (MongoDB, Express, React, Node.js) with Firebase integration. The platform facilitates property transactions by allowing sellers to upload properties for sale or rent, while buyers can explore these listings, view detailed information, and contact the sellers directly. Additionally, NestSeek provides a unique feature for users to post and find roommates based on their preferences.
 
