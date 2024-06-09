@@ -7,7 +7,7 @@ NestSeek is a comprehensive real estate platform built using the MERN stack (Mon
 ### Seller's Role
 
 - **Upload Properties**: Sellers can easily upload properties for sale or rent, including detailed descriptions and images.
-- **Manage Listings**: Sellers have the ability to manage their property listings, update information, and track inquiries.
+- **Manage Listings**: Sellers can manage their property listings, update information, and track inquiries.
 - **Contact Management**: Sellers can view and respond to messages from interested buyers.
 
 ### Buyer's Role
@@ -18,12 +18,12 @@ NestSeek is a comprehensive real estate platform built using the MERN stack (Mon
 
 ### Roommate Finder
 
-- **Post Roommate Requests**: Users can post requests for roommates, specifying their preferences and living requirements.
+- **Post Roommate Requests**: Users can post roommate requests, specifying their preferences and living requirements.
 - **Search for Roommates**: Users can search for potential roommates based on posted requests and personal preferences.
 
 ## Tech Stack
 
-- **Frontend**: React.js
+- **Frontend**: React, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication and Storage**: Firebase
@@ -39,11 +39,11 @@ NestSeek is a comprehensive real estate platform built using the MERN stack (Mon
    ```bash
    npm install
 
-3. Run both the server and client in different terminals:
+3. Start the server using:
    ```bash
    nodemon server
 
-   
-```bash
+4. Start the client using:
+   ```bash
    npm start
 
